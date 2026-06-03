@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c084fc,f472b6&height=120&section=header" width="100%"/>
-
-<br/>
-
-<h1><code>Prerana Thapa Magar</code> ✦</h1>
+<h1><code>Prerana Thapa Magar ✨ </code> ✦ </h1>
 
 <p><strong><code>> CS final year · Gorkha, Nepal 🌍</code></strong></p>
 
@@ -14,7 +10,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/terminal/default/48px.svg">
 </picture>
 
-<h3><em>let me code with a purpose.</em></h3>
+<h3><em>let me code with a purpose...</em></h3>
 
 <br/>
 
@@ -30,7 +26,7 @@
 
 ## `» hello, welcome` 🌸
 
-glad you're here! i'm **Prerana** — a final year CS student from Gorkha, Nepal, who stumbled into coding and somehow never left. coding is actually hobby number 3 for me, which means i bring the same energy to it as i do everything else i love. i'm equally skilled at debugging things *and* breaking them in the first place, so it balances out.
+ i'm **Prerana** — a CS student and coding is actually hobby number 3 and hobby 1 is to bring pretty solutions to the world. From my not so long journey I realized I am equally skilled at debugging and bug making...
 
 currently trying to build something awesome *(details: classified 🤫)* and always open to collaborations, open source, or freelance work if something cool comes along.
 
@@ -45,15 +41,14 @@ currently trying to build something awesome *(details: classified 🤫)* and alw
 
 ---
 
-## `» so far, what i have crafted` 🎨
+## `» so far, what i was able to craft` 🎨
 
 | 🎨 **Frontend** | ⚙️ **Backend** | 🤖 **ML / AI** | 📊 **Data** |
 |:---|:---|:---|:---|
 | Pixel-perfect UIs | Node.js · MySQL | ML models | Wrangling & viz |
 | HTML + CSS that actually slaps | XAMPP · backend arch | Image classification | Making data say something |
 
-> **`psst —`** I don't just talk about it, I ship it.
-> Check my repos to see what I've been cooking. ⭐ *star something if it sparks joy*
+> Check my repos to see some of them. ⭐ *star something if it sparks joy*
 
 ---
 
@@ -67,7 +62,5 @@ currently trying to build something awesome *(details: classified 🤫)* and alw
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=c084fc,f472b6&height=80&section=footer" width="100%"/>
-
-*`// made with ♡ and probably too much chai`*
 
 </div>
