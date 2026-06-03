@@ -1,16 +1,7 @@
 <div align="center">
 
-<h1><code>Prerana Thapa Magar </code> ✦✦ </h1>
-
+<h1><em> Motto: Code with a purpose...</em></h1>
 <p><strong><code>> CS final year· 🇳🇵 🌍</code></strong></p>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/terminal/default/48px.svg">
-</picture>
-
-<h3><em> Motto: Code with a purpose...</em></h3>
 
 </div>
 
@@ -18,7 +9,7 @@
 
 ## `» hello, welcome` 🌸
 
- i'm **Prerana** — a CS student and coding is actually hobby number 3 and hobby 1 is to bring pretty solutions to the world. I hope to build something awesome along the way *(details: classified 🤫)* and always open to collaborations, open source, or freelance work if something cool comes along.
+ i'm **Prerana**. Coding is actually hobby number 3 and hobby 1 is to bring cute solutions to the world. I hope to build something awesome along the way *(details: classified 🤫)* and always open to collaborations, open source, or freelance work if something cool comes along.
 
 ---
 
