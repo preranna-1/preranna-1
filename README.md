@@ -26,9 +26,7 @@
 
 ## `» hello, welcome` 🌸
 
- i'm **Prerana** — a CS student and coding is actually hobby number 3 and hobby 1 is to bring pretty solutions to the world. From my not so long journey I realized I am equally skilled at debugging and bug making...
-
-currently trying to build something awesome *(details: classified 🤫)* and always open to collaborations, open source, or freelance work if something cool comes along.
+ i'm **Prerana** — a CS student and coding is actually hobby number 3 and hobby 1 is to bring pretty solutions to the world. I hope to build something awesome along the way *(details: classified 🤫)* and always open to collaborations, open source, or freelance work if something cool comes along.
 
 ---
 
