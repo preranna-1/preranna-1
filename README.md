@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1><code>Prerana Thapa Magar ✨ </code> ✦ </h1>
+<h1><code>Prerana Thapa Magar </code> ✦✦ </h1>
 
-<p><strong><code>> CS final year · Gorkha, Nepal 🌍</code></strong></p>
+<p><strong><code>> CS final year· 🇳🇵 🌍</code></strong></p>
 
 <br/>
 
@@ -10,15 +10,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/terminal/default/48px.svg">
 </picture>
 
-<h3><em>let me code with a purpose...</em></h3>
-
-<br/>
-
-<!-- Badges -->
-![open to collab](https://img.shields.io/badge/%E2%9C%A6%20open%20to-collab-c084fc?style=flat-square&labelColor=1a0a2e)
-![building](https://img.shields.io/badge/%E2%9F%B3%20currently-trying%20to%20build%20smth%20awesome-2dd4bf?style=flat-square&labelColor=051a18)
-![freelance](https://img.shields.io/badge/%E2%9A%A1%20freelance-ok!-fbbf24?style=flat-square&labelColor=1a0f00)
-![open source](https://img.shields.io/badge/%E2%98%86%20open-source-f472b6?style=flat-square&labelColor=2a0a1e)
+<h3><em> Motto: Code with a purpose...</em></h3>
 
 </div>
 
@@ -30,7 +22,7 @@
 
 ---
 
-## `» languages` 💜
+## `» languages learnt so far` 💜
 
 ![C](https://img.shields.io/badge/C-a78bfa?style=flat-square&logo=c&logoColor=1e0533)
 ![Java](https://img.shields.io/badge/Java-f472b6?style=flat-square&logo=openjdk&logoColor=2a0a1e)
@@ -52,8 +44,8 @@
 
 ## `» find me` 📡
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preranathapamagar/)
+[![Instagram](https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dear_punu/)
 
 ---
 
