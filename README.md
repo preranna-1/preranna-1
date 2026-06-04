@@ -9,7 +9,7 @@
 
 ## `» hello, welcome` 🌸
 
- i'm **Prerana**. Coding is actually hobby number 3 and hobby 1 is to bring cute solutions to the world. I hope to build something awesome along the way *(details: classified 🤫)* and always open to collaborations, open source, or freelance work if something cool comes along.
+ i'm **Prerana**. Coding is actually hobby number 3 and hobby 1 is to bring cute solutions to the world. Always open to collaborations, open source, or freelance work if something cool comes the way.
 
 ---
 
