@@ -26,8 +26,8 @@
 
 | 🎨 **Frontend** | ⚙️ **Backend** | 🤖 **ML / AI** | 📊 **Data** |
 |:---|:---|:---|:---|
-| Pixel-perfect UIs | Node.js · MySQL | ML models | Wrangling & viz |
-| HTML + CSS that actually slaps | XAMPP · backend arch | Image classification | Making data say something |
+| Pixel-perfect UIs | Node.js · MySQL | CNN Model | ML Model |
+| HTML + CSS that actually slaps | XAMPP · backend arch | Image Classification | Regression and Classification |
 
 > Check my repos to see some of them. ⭐ *star something if it sparks joy*
 
